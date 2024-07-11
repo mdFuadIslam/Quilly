@@ -1,0 +1,46 @@
+I need to create a project using angular framework, make it a single page application if possible, find out more about RESTfFUl api, type script, 
+
+
+Name: Quilly
+
+Slogan: Where Words Come Alive
+
+Project Description: A digital library of sorts. Here users/admins can upload book pdfs, write blogs, publish web novels and other sorts of literature work and arts. There will be three types of content free, paid, early access (which after a time becomes free). 7 ranks of users (Dormant-nonuser, awakened-regular user, master-regular user who paid for something, transcendent- users who paid for certain patronage, supreme - users who paid for more than one patronage, lord - patronage of the site, overlord - admin). Writers can be of 7 different class(beast - 0 follower, titan - 7 followers).
+
+Feature Description:
+
+Feature - 1: User Creation
+	Able to freely see the content of the website.
+	create account with verification
+	log in account
+	customize account
+	upload user picture , video bio in the application. The data must be uploaded to a third party itself not in the database.
+
+Feature - 2: Content creation
+	define categories. (book, webnovel, blog, art(picture/video))
+	define type (free, paid, early access)
+	define genre (action, adventure, slice of life etc.)
+	able to edit, delete content
+
+Feature - 3: Search content
+	using tags. Try to make the tags auto complete
+	using names and other means
+
+Feature - 4: Class upgrade
+	when users reaches certain followers automatically change class.
+	change in class IS NOT permanent, always dependent on number of followers.
+
+Feature - 5: Payment System
+	buy paid content, patronage of people or server
+	cancel patronage of people or server
+	generate a billing section in user profile to keep track of purchases and cancelations
+
+Feature - 6: rank upgrade
+	upon purchase/cancellation auto changes Rank. Similar to class isn't permanent.
+
+Feature - 7: MISC
+	support dual theme
+	responsive
+	
+	admin page
+	recommend stuff based on likings
