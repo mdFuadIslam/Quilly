@@ -1,11 +1,6 @@
-I need to create a project using angular framework, make it a single page application if possible, find out more about RESTfFUl api, type script, 
-
-
 Name: Quilly
 
 Slogan: Where Words Come Alive
-
-Project Description: A digital library of sorts. Here users/admins can upload book pdfs, write blogs, publish web novels and other sorts of literature work and arts. There will be three types of content free, paid, early access (which after a time becomes free). 7 ranks of users (Dormant-nonuser, awakened-regular user, master-regular user who paid for something, transcendent- users who paid for certain patronage, supreme - users who paid for more than one patronage, lord - patronage of the site, overlord - admin). Writers can be of 7 different class(beast - 0 follower, titan - 7 followers).
 
 Feature Description:
 
